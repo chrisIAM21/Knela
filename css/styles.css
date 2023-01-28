@@ -11708,3 +11708,15 @@ body {
   height: auto;
   margin-right: 10px;
 }
+
+/* Cut image to cover div row */
+#estilos-cocina{
+  background-image: url("../assets/img/cocina_7.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
