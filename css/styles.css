@@ -11702,3 +11702,9 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+#logo-navbar{
+  width: 110px;
+  height: auto;
+  margin-right: 10px;
+}
