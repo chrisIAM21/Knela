@@ -605,6 +605,11 @@ progress {
 
 /* Adapto altura de la imagen a la altura del contenedor */
 .img-fluid{
+  width: 100%;
+  height: auto;
+}
+
+#estilos-cocina .img-fluid{
   height: 100%;
   width: 100%;
   object-fit: cover;
